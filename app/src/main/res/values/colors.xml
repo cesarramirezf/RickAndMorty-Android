@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#00a1de</color>
+    <color name="primaryLightColor">#93d0fc</color>
+    <color name="primaryDarkColor">#5085a5</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="detailColor">#88e23b</color>
+    <color name="backgroundApp">#FF000000</color>
+    <color name="alive">#2f6f56</color>
+    <color name="dead">#d63d2e</color>
+    <color name="unknown">#858585</color>
 </resources>

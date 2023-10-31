@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/primaryLightColor</item>
+    </style>
+
+    <style name="NameItem">
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="StatusAndSpeciesItem">
+        <item name="android:textSize">@dimen/status_species_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="LastLocationItem">
+        <item name="android:textSize">@dimen/status_species_text_size</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TitleItemDetail">
+        <item name="android:textSize">@dimen/title_detail_text_size</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">@color/detailColor</item>
+    </style>
+
+    <style name="SubTitleItemDetail">
+        <item name="android:textSize">@dimen/sub_title_detail_text_size</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">@color/detailColor</item>
+    </style>
+
+    <style name="DescriptionItemDetail">
+        <item name="android:textSize">@dimen/sub_title_detail_text_size</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">@color/detailColor</item>
+    </style>
+
+</resources>

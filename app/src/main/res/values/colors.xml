@@ -7,6 +7,8 @@
     <color name="primaryDarkColor">#5085a5</color>
     <color name="primaryTextColor">#000000</color>
     <color name="detailColor">#88e23b</color>
+    <color name="subtitleColor">#35c9dd</color>
+    <color name="listColor">#464b96</color>
     <color name="backgroundApp">#FF000000</color>
     <color name="alive">#2f6f56</color>
     <color name="dead">#d63d2e</color>

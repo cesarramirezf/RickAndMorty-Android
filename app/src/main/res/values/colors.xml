@@ -13,4 +13,8 @@
     <color name="alive">#2f6f56</color>
     <color name="dead">#d63d2e</color>
     <color name="unknown">#858585</color>
+
+    //Colors for new Style
+    <color name="blue">#0000ff</color>
+    <color name="orange">#fa5b3d</color>
 </resources>
